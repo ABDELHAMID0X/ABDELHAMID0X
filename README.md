@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/abdelhamid 0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelhamid 0x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdelhamid ait el mahjoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelhamid ait el mahjoub" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelhamid 0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelhamid 0x" height="30" width="40" /></a>
+<a href="https://instagram.com/abdelhamid_0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelhamid 0x" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/7X88wzUvqP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/7X88wzUvqP" height="30" width="40" /></a>
 </p>
 
